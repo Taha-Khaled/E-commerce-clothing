@@ -12,7 +12,7 @@ class ShopPage extends React.Component {
     }
     render(){
         const {collections} =this.state;
-        return( <div>
+        return( <div style={{padding: '20px 80px;'}}>
             {
             collections.map(({id , ...otherCollectionsProps})=>(
                 <CollectionPreview key ={id}{...otherCollectionsProps}/>
