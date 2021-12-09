@@ -1,4 +1,4 @@
-live version : https://tahakhalled.github.io/E-commerce-clothing/
+live version : https://Taha-Khaled.github.io/E-commerce-clothing/
 
 # Getting Started with Create React App
 
